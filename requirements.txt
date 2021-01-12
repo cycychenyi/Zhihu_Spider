@@ -1,0 +1,4 @@
+lxml
+muggle-ocr
+pip-chill
+pyexecjs
